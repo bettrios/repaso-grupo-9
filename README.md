@@ -10,3 +10,12 @@ Pasos a seguir para las practicas de git
     b) git add .
     c) git commit -m "mensaje"
     d) git push
+
+Realizar un pull request desde mi rama
+1) Crear una nueva rama como git checkout -b "nombre de rama"
+2) Modificar algun archivo
+3) Subir cambios al repositorio
+    a) git status
+    b) git add .
+    c) git commit -m "mensaje"
+    d) git push
